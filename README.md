@@ -1,10 +1,10 @@
-# first_app
+# first_app of Udemy Flutter Dart by Academind
 
-A new Flutter project.
+A simple "Personality" quiz
 
-## Getting Started
+## Basics
 
-This project is a starting point for a Flutter application.
+Answer 3 questions and get a personality "result".
 
 A few resources to get you started if this is your first Flutter project:
 
